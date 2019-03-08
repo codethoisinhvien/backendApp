@@ -1,0 +1,323 @@
+{
+    "success": true,
+    "data": {
+        "questions": [
+            {
+                "choiceAnswer": [
+                    {
+                        "opt": "A",
+                        "content": "I am fine",
+                        "formtype": "String"
+                    },
+                    {
+                        "opt": "B",
+                        "content": "I am fine",
+                        "formtype": "String"
+                    },
+                    {
+                        "opt": "C",
+                        "content": "I am fine",
+                        "formtype": "String"
+                    },
+                    {
+                        "opt": "D",
+                        "content": "I am fine",
+                        "formtype": "String"
+                    }
+                ],
+                "_id": "5c7d53f1790c5f40777c027c",
+                "question": "How are you ?"
+            },
+            {
+                "choiceAnswer": [
+                    {
+                        "opt": "A",
+                        "content": "I am fine",
+                        "formtype": "String"
+                    },
+                    {
+                        "opt": "B",
+                        "content": "I am fine",
+                        "formtype": "String"
+                    },
+                    {
+                        "opt": "C",
+                        "content": "I am fine",
+                        "formtype": "String"
+                    },
+                    {
+                        "opt": "D",
+                        "content": "I am fine",
+                        "formtype": "String"
+                    }
+                ],
+                "_id": "5c7d53f1790c5f40777c0282",
+                "question": "How are you ?"
+            },
+            {
+                "choiceAnswer": [
+                    {
+                        "opt": "A",
+                        "content": "I am fine",
+                        "formtype": "String"
+                    },
+                    {
+                        "opt": "B",
+                        "content": "I am fine",
+                        "formtype": "String"
+                    },
+                    {
+                        "opt": "C",
+                        "content": "I am fine",
+                        "formtype": "String"
+                    },
+                    {
+                        "opt": "D",
+                        "content": "I am fine",
+                        "formtype": "String"
+                    }
+                ],
+                "_id": "5c7d53f1790c5f40777c0288",
+                "question": "How are you ?"
+            },
+            {
+                "choiceAnswer": [
+                    {
+                        "opt": "A",
+                        "content": "I am fine",
+                        "formtype": "String"
+                    },
+                    {
+                        "opt": "B",
+                        "content": "I am fine",
+                        "formtype": "String"
+                    },
+                    {
+                        "opt": "C",
+                        "content": "I am fine",
+                        "formtype": "String"
+                    },
+                    {
+                        "opt": "D",
+                        "content": "I am fine",
+                        "formtype": "String"
+                    }
+                ],
+                "_id": "5c7d53f1790c5f40777c028e",
+                "question": "How are you ?"
+            },
+            {
+                "choiceAnswer": [
+                    {
+                        "opt": "A",
+                        "content": "I am fine",
+                        "formtype": "String"
+                    },
+                    {
+                        "opt": "B",
+                        "content": "I am fine",
+                        "formtype": "String"
+                    },
+                    {
+                        "opt": "C",
+                        "content": "I am fine",
+                        "formtype": "String"
+                    },
+                    {
+                        "opt": "D",
+                        "content": "I am fine",
+                        "formtype": "String"
+                    }
+                ],
+                "_id": "5c7d53f1790c5f40777c0294",
+                "question": "How are you ?"
+            },
+            {
+                "choiceAnswer": [
+                    {
+                        "opt": "A",
+                        "content": "I am fine",
+                        "formtype": "String"
+                    },
+                    {
+                        "opt": "B",
+                        "content": "I am fine",
+                        "formtype": "String"
+                    },
+                    {
+                        "opt": "C",
+                        "content": "I am fine",
+                        "formtype": "String"
+                    },
+                    {
+                        "opt": "D",
+                        "content": "I am fine",
+                        "formtype": "String"
+                    }
+                ],
+                "_id": "5c7d53f1790c5f40777c029a",
+                "question": "How are you ?"
+            },
+            {
+                "choiceAnswer": [
+                    {
+                        "opt": "A",
+                        "content": "I am fine",
+                        "formtype": "String"
+                    },
+                    {
+                        "opt": "B",
+                        "content": "I am fine",
+                        "formtype": "String"
+                    },
+                    {
+                        "opt": "C",
+                        "content": "I am fine",
+                        "formtype": "String"
+                    },
+                    {
+                        "opt": "D",
+                        "content": "I am fine",
+                        "formtype": "String"
+                    }
+                ],
+                "_id": "5c7d53f1790c5f40777c02a0",
+                "question": "How are you ?"
+            },
+            {
+                "choiceAnswer": [
+                    {
+                        "opt": "A",
+                        "content": "I am findsadase",
+                        "formtype": "String"
+                    },
+                    {
+                        "opt": "B",
+                        "content": "I am fine",
+                        "formtype": "String"
+                    },
+                    {
+                        "opt": "C",
+                        "content": "I am dasdasfine",
+                        "formtype": "String"
+                    },
+                    {
+                        "opt": "D",
+                        "content": "I am fine",
+                        "formtype": "String"
+                    }
+                ],
+                "_id": "5c7d53f1790c5f40777c02a6",
+                "question": "How are you ?"
+            },
+            {
+                "choiceAnswer": [
+                    {
+                        "opt": "A",
+                        "content": "I am fine",
+                        "formtype": "String"
+                    },
+                    {
+                        "opt": "B",
+                        "content": "I adasdasm fine",
+                        "formtype": "String"
+                    },
+                    {
+                        "opt": "C",
+                        "content": "I am fine",
+                        "formtype": "String"
+                    },
+                    {
+                        "opt": "D",
+                        "content": "I am fine",
+                        "formtype": "String"
+                    }
+                ],
+                "_id": "5c7d53f1790c5f40777c02ac",
+                "question": "How are you ?"
+            },
+            {
+                "choiceAnswer": [
+                    {
+                        "opt": "A",
+                        "content": "I am fiasdasne",
+                        "formtype": "String"
+                    },
+                    {
+                        "opt": "B",
+                        "content": "I am fine",
+                        "formtype": "String"
+                    },
+                    {
+                        "opt": "C",
+                        "content": "I am findasdasde",
+                        "formtype": "String"
+                    },
+                    {
+                        "opt": "D",
+                        "content": "I am fine",
+                        "formtype": "String"
+                    }
+                ],
+                "_id": "5c7d53f1790c5f40777c02b2",
+                "question": "How are you ?"
+            },
+            {
+                "choiceAnswer": [
+                    {
+                        "opt": "A",
+                        "content": "I am fidasdasne",
+                        "formtype": "String"
+                    },
+                    {
+                        "opt": "B",
+                        "content": "I am fine",
+                        "formtype": "String"
+                    },
+                    {
+                        "opt": "C",
+                        "content": "I am fine",
+                        "formtype": "String"
+                    },
+                    {
+                        "opt": "D",
+                        "content": "I am fiasdasdne",
+                        "formtype": "String"
+                    }
+                ],
+                "_id": "5c7d53f1790c5f40777c02b8",
+                "question": "How are you ?"
+            },
+            {
+                "choiceAnswer": [
+                    {
+                        "opt": "A",
+                        "content": "I am finadase",
+                        "formtype": "String"
+                    },
+                    {
+                        "opt": "B",
+                        "content": "I am fine",
+                        "formtype": "String"
+                    },
+                    {
+                        "opt": "C",
+                        "content": "I am fine",
+                        "formtype": "String"
+                    },
+                    {
+                        "opt": "D",
+                        "content": "I am fine",
+                        "formtype": "String"
+                    }
+                ],
+                "_id": "5c7d53f1790c5f40777c02be",
+                "question": "How are you ?"
+            }
+        ],
+        "_id": "5c7d53f1790c5f40777c02bf",
+        "time": 1800,
+        "name": "SE-1",
+        "__v": 0
+    }
+}

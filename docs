@@ -1,0 +1,6 @@
+
+Sau khi clone project về  chạy npm install để tải các pack cần về
+B1: build ts thành js:npm run serve:ssr
+B2: run server : 
+Server chạy ở công 3000
+//User điều khiển các user
